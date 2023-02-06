@@ -102,7 +102,7 @@
               "node_modules/bootstrap-notify/bootstrap-notify.js"
             ],
             "styles": [
-              "src/styles.css",
+              "src/style.css",
               "src/assets/scss/paper-dashboard.scss"
             ],
             "assets": [
